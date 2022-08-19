@@ -1,0 +1,16 @@
+C:\Users\Aluno\Documents\Ex01ListCsharp2\obj\Debug\net5.0\Ex01ListCsharp2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Documents\Ex01ListCsharp2\obj\Debug\net5.0\Ex01ListCsharp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\Ex01ListCsharp2\obj\Debug\net5.0\Ex01ListCsharp2.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\Ex01ListCsharp2\obj\Debug\net5.0\Ex01ListCsharp2.AssemblyInfo.cs
+C:\Users\Aluno\Documents\Ex01ListCsharp2\obj\Debug\net5.0\Ex01ListCsharp2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\Ex01ListCsharp2\bin\Debug\net5.0\Ex01ListCsharp2.exe
+C:\Users\Aluno\Documents\Ex01ListCsharp2\bin\Debug\net5.0\Ex01ListCsharp2.deps.json
+C:\Users\Aluno\Documents\Ex01ListCsharp2\bin\Debug\net5.0\Ex01ListCsharp2.runtimeconfig.json
+C:\Users\Aluno\Documents\Ex01ListCsharp2\bin\Debug\net5.0\Ex01ListCsharp2.runtimeconfig.dev.json
+C:\Users\Aluno\Documents\Ex01ListCsharp2\bin\Debug\net5.0\Ex01ListCsharp2.dll
+C:\Users\Aluno\Documents\Ex01ListCsharp2\bin\Debug\net5.0\ref\Ex01ListCsharp2.dll
+C:\Users\Aluno\Documents\Ex01ListCsharp2\bin\Debug\net5.0\Ex01ListCsharp2.pdb
+C:\Users\Aluno\Documents\Ex01ListCsharp2\obj\Debug\net5.0\Ex01ListCsharp2.dll
+C:\Users\Aluno\Documents\Ex01ListCsharp2\obj\Debug\net5.0\ref\Ex01ListCsharp2.dll
+C:\Users\Aluno\Documents\Ex01ListCsharp2\obj\Debug\net5.0\Ex01ListCsharp2.pdb
+C:\Users\Aluno\Documents\Ex01ListCsharp2\obj\Debug\net5.0\Ex01ListCsharp2.genruntimeconfig.cache
